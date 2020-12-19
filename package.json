@@ -1,0 +1,15 @@
+{
+  "name": "noobjc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "xcodebuild -project ObjC/JavaScriptObjC/JavaScriptObjC.xcodeproj clean build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodobjc": "^2.1.0"
+  }
+}
